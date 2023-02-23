@@ -14,7 +14,7 @@ client.user.setPresence({
   status: 'online',
   activity: {
    type: 'PLAYING',
-   name: 'URL Sniper by zk#1337',
+   name: 'URL Sniper by amd#8061',
   },
  });
 });
@@ -22,7 +22,7 @@ client.user.setPresence({
 
 client.once("ready", () => {
   console.log('\x1b[31m%s\x1b[0m',"Prêt pour snipe des url !");
-  console.log('\x1b[31m%s\x1b[0m',"Dev by zk#1337");
+  console.log('\x1b[31m%s\x1b[0m',"Dev by amd#8061");
   console.log('\x1b[32m%s\x1b[0m',`Ready on ${client.guilds.cache.size} servers for a total of ${client.users.cache.size} users`);
 
 });
