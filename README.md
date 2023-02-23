@@ -8,7 +8,7 @@ Discord.js v14 Compatible Discord Custom Vanity Url Sniper Bot Engine and Codes 
 > 
 > Discord Permission: https://discordapi.com/permissions.html
 
-> URL Sniper by zk#1337 
+> URL Sniper by amd#8061
 
 Use this command for install modules : npm i
 
